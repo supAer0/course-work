@@ -34,3 +34,6 @@
   - Приложения
   
 Целью данной работы является реализация собственной CMS
+
+
+https://docs.google.com/document/d/1iAI2OVwhOrV64VTJ8MxQT5j37WkRjkAyaaZsAfRtH6A/edit?usp=sharing
